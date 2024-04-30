@@ -68,6 +68,16 @@ The total screen time includes the sum of 5 different types of screen times:
 - It appears there is no correlation between total screen time and exercise time and sleep 
 - There seems to be some negative correlation between total screen time and walking steps; total steps increases as total screen time decreases 
 
+Over the past 2 months, my average screen time is approximately 11 hours. Aside from work and school, most of my screen time is due to my phone. It appears most of my time is spent on either TikTok or some form of streaming ( Netflix, AppleTv+ etc). There is a moderate negative correlation between my screentime and average steps. Surprisingly, there is no correlation between exercise or sleep and total screen time. More data needs to be collected so that we can analyze trends over an extended period. The effects of excessive screen time often realized gradually over time, so it is important to study trends across a longer timeframe. This can be taken to another level by collecting data for a certain population and analyzing trends of the poulation. This could serve as a baseline for comparing individual trends. 
+
+## Recommendations 
+
+- Introduce a screen limit time on phone apps which cannot be disabled once enabled.
+- Introduce daily exercies to lower screen time since there was a correlation between steps and total screentime.
+- Continue collecting data once these are implemented. 
+
+
+
 
 
 
